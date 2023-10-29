@@ -1,8 +1,8 @@
 {
-  "id": "tts/229813f7-524a-4cd4-8b71-fd0ef43fcc51/960a9d7c-fbc0-4d76-99aa-4e206060affc",
+  "id": "tts/229813f7-524a-4cd4-8b71-fd0ef43fcc51/9a01ffaa-f10e-45dc-8881-75a8a71e04d2",
   "progress": 1.0,
   "result": {
-    "url": "https://beta-studio.storage.googleapis.com/api_media/tts/229813f7-524a-4cd4-8b71-fd0ef43fcc51/960a9d7c-fbc0-4d76-99aa-4e206060affc.wav?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=studio-cluster-manager-117%40mohirdev-379005.iam.gserviceaccount.com%2F20230807%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20230807T083630Z&X-Goog-Expires=345600&X-Goog-SignedHeaders=host&X-Goog-Signature=2ca48f8b2027fc340098ffe2aadcec71235aeda710d09bb99143d30d9b17116975cc018b38e27a50053089bf026bed927b43b4c9a0c9c9fda2481c6b254472dd58ee600f7587e1a9e93318e905b65ab803199f002022f9e5454b6f2e27407cc3c4d65894bfa5fffec58c0480213383f7589b0f6baa4f2a00a6741a97234ed63471f89b0c98bb3b27f30c70b29ac2c4fd0aad5b9fc4811126f4ec7a8fb4773fa467c8545353ce9503cf5ff73180363b77ae16536a0b488e01e5fb41f88a6bba14a7604164a64c7092e4e4c8f85a3b1e1d61c75fe0865433678c8bf52478e56b70794728f5e40f88c5c0739ee81efb28834db28b96966a8430997a958a2e8c42da"
+    "url": "https://beta-studio.storage.googleapis.com/api_media/tts/229813f7-524a-4cd4-8b71-fd0ef43fcc51/9a01ffaa-f10e-45dc-8881-75a8a71e04d2.wav?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=studio-cluster-manager-117%40mohirdev-379005.iam.gserviceaccount.com%2F20231029%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20231029T114327Z&X-Goog-Expires=345600&X-Goog-SignedHeaders=host&X-Goog-Signature=8a8eb3bb55b99cdc153dfd82d8f3ae70e3558d71736432a227173b3184a20e38200e3127f39f66c607a34215874d8be3ee29ff4d651815c904c67016114fe1284fd16b3e416707d45ffd522a76886b038e0cbd2d7bda4b87933e9486f9322e9e1b9eefdee9aab255791ea389b448a9ed51bccb6c1b4599433e736c2f211d143e4419dc67771e9874fd6a71ee25e557d5ec39ff6266e95c0cf99fbb9625404a57982ce6a86a015fa243c6950bc9925c211194cc97e6801af250c86e912f52c7f9b17660dd906035fb06dfc6eba49e24f07b1656f79f6743ec81d666dee0555ecb3ada62fd23e605c01311cd3dc5274957787cc21a4f9579b474ade39a81c521f1"
   },
   "status": "SUCCESS"
 }
